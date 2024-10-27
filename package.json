@@ -1,0 +1,32 @@
+{
+  "name": "auto-mm",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mutex": "^0.5.0",
+    "axios": "^1.7.7",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^5.2.0",
+    "bitcore-mnemonic": "^10.3.0",
+    "bottleneck": "^2.19.5",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "litecoin": "^2.0.5",
+    "litecore-lib": "^0.13.22",
+    "npm": "^10.8.3",
+    "path": "^0.12.7",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.4"
+  },
+  "description": ""
+}
