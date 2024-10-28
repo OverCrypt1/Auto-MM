@@ -1,5 +1,4 @@
 // main.js
-// Auto Mm Bot Made By move.gone.3
 require('dotenv').config(); // Import dotenv at the beginning
 const { Mutex } = require('async-mutex');
 const ticketMutexes = new Map();
@@ -148,7 +147,7 @@ async function saveTicketsToFile() {
 
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
-    client.user.setActivity('MOVE ⚡ SHOP || .gg/nitrox', { type: ActivityType.Watching });
+    client.user.setActivity('Termwave ⚡ ', { type: ActivityType.Watching });
 });
 
 
